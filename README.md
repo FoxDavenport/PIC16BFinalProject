@@ -24,18 +24,25 @@ From this project, not only will we obtain a deeper grasp of the housing market 
 # Group Members and Timeline
 -Eric Chi
 -Fox Davenport
+
 Week 5
-Clean and prepare data
+  -Clean and prepare data
+
 Week 6
-Analyze the data we have with well illustrative graphs and charts
-Create crossfits to find best variables
+  -Analyze the data we have with well illustrative graphs and charts
+  -Create crossfits to find best variables
+
 Week 7
-Establish the machine learning models
+  -Establish the machine learning models
+
 Week 8
-Perform significance tests to find the best model
-Draw significant conclusions from the model and data
+  -Perform significance tests to find the best model
+  -Draw significant conclusions from the model and data
+
 Week 9
-Use Markdown to clearly explain what code blocks do, information from graphical analysis, conclusions from the model, etc…
+  -Use Markdown to clearly explain what code blocks do, information from graphical analysis, conclusions from the model, etc…
+
 Week 10
-Proofread and finalize any last minute changes
-Submit project
+  -Proofread and finalize any last minute changes
+  -Submit project
+
