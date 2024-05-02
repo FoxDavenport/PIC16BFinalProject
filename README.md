@@ -1,4 +1,4 @@
-# PIC16BFinalProject
+# PIC16BFinalProject (Analysis of Factors that Contribute to Housing Prices)
 Eric and Fox's PIC 16B Final Project Repository
 
 # What Project About:
